@@ -1,0 +1,22 @@
+body{
+
+    background-image: url("../img/header-bg.jpg");
+
+};
+
+.container{
+ color: antiquewhite;
+   
+};
+
+/*#logbtn:hover {
+    background-color: #fed136;
+    border-color: #fed136;
+   
+  };*/
+
+
+  #logbtn{
+      color: white;
+  };
+  

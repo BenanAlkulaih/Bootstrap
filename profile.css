@@ -1,0 +1,24 @@
+body{
+        background-image: url("../img/header-bg.jpg");
+
+};
+
+.container{
+    padding:5%;
+    
+}
+.container .img{
+    text-align:center;
+    margin-top: 80px;
+  
+}
+.container .details{
+    border-left:3px solid #ded4da;
+    color: beige;
+    margin-top: 80px;
+}
+.container .details p{
+    font-size:15px;
+    font-weight:bold;
+    margin-top: 80px;
+}
